@@ -1,0 +1,18 @@
+@import "../home/home";
+
+.example {
+   @include home;
+
+
+.header-panel{
+	background: red;
+   border:solid;
+   padding:8px !important;
+}
+
+.title{
+	font-size:25px;
+}
+
+
+}
